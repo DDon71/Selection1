@@ -1,0 +1,15 @@
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/bin/Debug/net6.0/SelectionStatments
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/bin/Debug/net6.0/SelectionStatments.deps.json
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/bin/Debug/net6.0/SelectionStatments.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/bin/Debug/net6.0/SelectionStatments.dll
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/bin/Debug/net6.0/SelectionStatments.pdb
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.dll
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/refint/SelectionStatments.dll
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.pdb
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/SelectionStatments.genruntimeconfig.cache
+/Users/deucey1tap/Desktop/repos/Selections/Selections/SelectionStatments/SelectionStatments/obj/Debug/net6.0/ref/SelectionStatments.dll
